@@ -23,3 +23,11 @@ src/
 |-- App.tsx
 |-- main.tsx
 |-- index.html
+
+
+Additional Features
+Debouncing on Input Boxes
+To improve performance and avoid unnecessary API calls, If there is an API 
+
+Validations
+The application includes input validations to understand user text.
